@@ -1,4 +1,4 @@
-# 🚗 Used Car Sales Analysis & Dashboard
+# 🚗 Used Cars Sales Analysis & Dashboard
 
 ## 📌 Project Overview
 
