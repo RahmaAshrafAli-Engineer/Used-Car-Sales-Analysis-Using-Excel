@@ -122,8 +122,6 @@ The dashboard makes it possible to identify:
 
 ## 📊 Dashboard Preview
 
-![Used Car Sales Dashboard](Dashboard.png)
-
 ---
 
 ## 👩‍💻 Author
